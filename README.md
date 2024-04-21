@@ -23,17 +23,22 @@ If you're looking for a professional who can effortlessly navigate the realms of
 
 
 
+![](https://komarev.com/ghpvc/?username=Ehasaniceiu04&label=PROFILE+VIEWS)
+
 Tech Stacks I'm currently working on 🔭
 
-Microservices 🌐    
-.Net Core 🎯
-Web API 🕸️
-System Design 📐
-Low Level Design 🔍
-Docker 🐳
-Kubernetes ☸️
-C# 🌟
-Azure ☁️
-Node.js
-Angular 🅰️
-React
+    Microservices 🌐    
+    .Net Core 🎯
+    Web API 🕸️
+    System Design 📐
+    Low Level Design 🔍
+    Docker 🐳
+    Kubernetes ☸️
+    C# 🌟
+    Azure ☁️
+    Spring Boot 🌸
+    Spring Cloud ☁️
+    Java ☕️
+    Angular 🅰️
+    Node.js
+    React
