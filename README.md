@@ -15,11 +15,11 @@
 
 💡💼 In my journey, I've become well-versed in microservices design patterns, understanding how to create scalable, maintainable, and decoupled architectures. I believe that clean code and elegant solutions are essential for success in any development endeavor. 💡💼
 
-📚🎥 As an established author, I've had the pleasure of sharing my knowledge and experiences with the community. I've published more than 10 books and created 8 Udemy courses, empowering aspiring developers to unlock their true potential. Sharing knowledge is not just a passion; it's a way of giving back to the community that has supported me throughout my career. 🌟📚
+📚🎥 As an established author, I've had the pleasure of sharing my knowledge and experiences with the community. I've  created 6 youtube playlists, empowering aspiring developers to unlock their true potential. Sharing knowledge is not just a passion; it's a way of giving back to the community that has supported me throughout my career. 🌟📚
 
 If you're looking for a professional who can effortlessly navigate the realms of system design, microservices, Microsoft stack, Azure, Angular, React, infrastructure, and cloud technologies, then look no further. Let's connect and explore how we can revolutionize the world of software development together! 🚀💻
 
-📧 Connect with me at my LinkedIn profile at LinkedIn. Let's build something extraordinary! ✨🌍
+📧 Connect with me at my LinkedIn profile at [LinkedIn](https://www.linkedin.com/in/ehasanulhoque/)). Let's build something extraordinary! ✨🌍
 
 
 
